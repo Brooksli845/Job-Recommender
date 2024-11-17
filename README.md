@@ -14,3 +14,7 @@ This tool scrapes job postings and company reviews from Indeed, then uses the da
    ```bash
    pip install playwright
    playwright install
+   ```
+
+## Required Data
+-[Scraped Data](company_review_download)
