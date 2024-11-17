@@ -17,4 +17,4 @@ This tool scrapes job postings and company reviews from Indeed, then uses the da
    ```
 
 ## Required Data
-- [Scraped Data](company_reviews.csv)
+- [Scraped Data](company_reviews.csv): This data is needed to run the recommendation system.
